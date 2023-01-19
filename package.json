@@ -1,23 +1,31 @@
 {
-    "name": "bootstrap-test",
-    "version": "1.0.0",
-    "description": "\"Learn Bootstrapp on Coursera\"",
-    "main": "index.html",
-    "scripts": {
-        "start": "npm run lite",
-        "test": "echo \"Error: no test specified\" && exit 1",
-        "lite": "lite-server"
-    },
-    "keywords": [
-        "Bootstrap"
-    ],
-    "author": "Ilyas",
-    "license": "ISC",
-    "dependencies": {
-        "bootstrap": "^4.0.0",
-        "jquery": "^3.3.1",
-        "lite-server": "^2.6.1",
-        "popper.js": "^1.12.9",
-        "save-dev": "^0.0.1-security"
-    }
+  "name": "bootstrap-test",
+  "version": "1.0.0",
+  "description": "\"Learn Bootstrapp on Coursera\"",
+  "main": "index.html",
+  "scripts": {
+    "start": "npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite": "lite-server"
+  },
+  "keywords": [
+    "Bootstrap"
+  ],
+  "author": "Ilyas",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^4.0.0",
+    "jquery": "^3.3.1",
+    "lite-server": "^2.6.1",
+    "popper.js": "^1.12.9",
+    "save-dev": "^0.0.1-security"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ilyabdul/CourseraCSSHTMLJS.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ilyabdul/CourseraCSSHTMLJS/issues"
+  },
+  "homepage": "https://github.com/ilyabdul/CourseraCSSHTMLJS#readme"
 }
