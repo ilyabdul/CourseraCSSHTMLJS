@@ -9,7 +9,9 @@
     border-bottom: 1px ridge;
     min-height: 400px;
 }
-
+input[type=radio] { 
+    margin-right:4px; 
+}
 .footer {
     background-color: #D1C4D5;
     margin: 0px auto;
